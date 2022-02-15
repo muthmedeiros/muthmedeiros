@@ -44,7 +44,7 @@
 </p>
 
 <details>
-   <summary>Projetos</summary>
+   <summary>:card_file_box: Projetos</summary>
       <br>
       <table>
          <thead>
@@ -85,7 +85,7 @@
 </details>
 
 <details> 
-   <summary>GitHub Stats</summary>
+   <summary>:bar_chart: GitHub Stats</summary>
       <br>
       <div align="center">
          <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm">
