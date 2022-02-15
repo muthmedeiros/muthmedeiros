@@ -1,19 +1,21 @@
-
 <h1> Olá, meu nome é Murilo Medeiros 👋 </h1>
 <p>
    <a href="https://www.linkedin.com/in/murilo-medeiros-07452314a/">
-    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098"  height=25/>
+    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098"  height=25/></a>
   <a href="https://twitter.com/muthmedeiros">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" height=25/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" height=25/></a>
   <a href="https://www.instagram.com/muthmedeiros">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"  height=25/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"  height=25/></a>
 </p>
-
-    
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthmedeiros&layout=compact&theme=calm" />
-</div>
+     
+<h3> Sobre mim: </h3>
+<ul>
+  <li>:desktop_computer: Desenvolvedor Front-End Flutter
+  <li>:school: Cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU)
+  <li>:office_worker: Desenvolvedor Júnior @ <a href="https://arpiatecnologia.com.br/">Arpia Tecnologia</a>
+  <li>:globe_with_meridians: Fluente em <b>Inglês</b>, conhecimentos básicos em <b>Espanhol</b> e aprendendo <b>Japonês</b>
+  <li>:seedling: Aprendendo sobre DevOps, Back-End e como me tornar um CTO
+</ul>
 
 <h3 align="left">
   Tecnologias mais utilizadas: 
@@ -39,3 +41,8 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
   <a href="https://www.docker.com/" title="Docker"><img src="logos/docker.png" height=30/></a>
 </p>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthmedeiros&layout=compact&theme=calm" />
+</div>
