@@ -13,7 +13,7 @@
   <li>:desktop_computer: Desenvolvedor Front-End Flutter
   <li>:school: Cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU)
   <li>:office_worker: Desenvolvedor Júnior @ <a href="https://arpiatecnologia.com.br/">Arpia Tecnologia</a>
-  <li>:globe_with_meridians: Fluente em <b>Inglês</b>, conhecimentos básicos em <b>Espanhol</b> e aprendendo <b>Japonês</b>
+  <li>:globe_with_meridians: Fluente em Inglês, conhecimentos básicos em Espanhol e aprendendo Japonês
   <li>:seedling: Aprendendo sobre DevOps, Back-End e como me tornar um CTO
 </ul>
 
