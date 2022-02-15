@@ -43,6 +43,47 @@
   <a href="https://www.docker.com/" title="Docker"><img src="logos/docker.png" height=30/></a>
 </p>
 
+<details>
+   <summary>Projetos</summary>
+      <br>
+      <table>
+         <thead>
+            <tr>
+               <th>Nome do Projeto</th>
+               <th>Tecnologias Utilizadas</th>
+               <th>Descrição</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><a href='https://github.com/muthmedeiros/tela_de_login_com_flutter'>Tela de Login</a></td>
+               <td>Flutter, <a href="https://pub.dev/packages/mobx">MobX</a>, <a href="https://modular.flutterando.com.br/">Modular</a> e Firebase</td>
+               <td>Telas simples de login e registro para aprendizado e reforço de conhecimentos em Flutter, gerência de estado, gerenciamento de rotas, autenticação e manipulação de banco de dados.</td>
+            </tr>
+            <tr>
+               <td><a href='https://github.com/muthmedeiros/NLW05_dev_quiz'>DevQuiz</a></td>
+               <td>Flutter</td>
+               <td>Projeto completo da NLW #05 da <a href="https://www.rocketseat.com.br/">Rocketseat</a> em que é criado um quiz sobre tecnologias com reações para respostas certas e erradas, além de contador de acertos.</td>
+            </tr>
+            <tr>
+               <td><a href='https://github.com/muthmedeiros/split.it'>Split.It</a></td>
+               <td>Flutter, MobX, Modular e Firebase</td>
+               <td>Projeto completo da Trilha Flutter do programa de aceleração <a href="https://www.rocketseat.com.br/ignite">Ignite</a>. Nele conseguimos criar uma lista de items a serem divididos, adicionar pessoas e calcular quanto cada um deve pagar no final.</td>
+            </tr>
+            <tr>
+               <td><a href='https://github.com/muthmedeiros/loja_virtual_responsiva'>Loja Virtual Responsiva</a></td>
+               <td>Flutter</td>
+               <td>Construção de tela simples que simula uma loja virtual para aprendizado e reforço de conhecimentos em responsividade com Flutter e como ele é importante no desenvolvimento de interfaces.</td>
+            </tr>
+            <tr>
+               <td><a href='https://github.com/muthmedeiros/olx_clone'>XLO</a></td>
+               <td>Flutter, MobX, <a href="https://pub.dev/packages/get_it">GetIt</a> e <a href="https://www.back4app.com/">Back4App</a></td>
+               <td>Clone da OLX desenvolvido em Flutter.</td>
+            </tr>
+         </tbody>
+     </table>
+</details>
+
 <details> 
    <summary>GitHub Stats</summary>
       <br>
