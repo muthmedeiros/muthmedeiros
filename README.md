@@ -10,6 +10,10 @@
 </h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/murilo-medeiros-07452314a/">
-    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
-  </a>
+   <a href="https://www.linkedin.com/in/murilo-medeiros-07452314a/">
+    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098"  height=25/>
+  <a href="https://twitter.com/muthmedeiros">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" height=25/>
+  <a href="https://www.instagram.com/muthmedeiros">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"  height=25/>
+</p>
