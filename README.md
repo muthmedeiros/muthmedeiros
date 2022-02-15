@@ -11,7 +11,7 @@
 <h3> Sobre mim: </h3>
 <ul>
   <li>:desktop_computer: Desenvolvedor Front-End Flutter
-  <li>:school: Cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU)
+  <li>:school: Cursando <a href="http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica">Sistemas de Informação</a> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>
   <li>:office_worker: Desenvolvedor Júnior @ <a href="https://arpiatecnologia.com.br/">Arpia Tecnologia</a>
   <li>:globe_with_meridians: Fluente em Inglês, conhecimentos básicos em Espanhol e aprendendo Japonês
   <li>:seedling: Aprendendo sobre DevOps, Back-End e como me tornar um CTO
