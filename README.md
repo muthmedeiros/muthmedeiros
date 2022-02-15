@@ -43,7 +43,13 @@
   <a href="https://www.docker.com/" title="Docker"><img src="logos/docker.png" height=30/></a>
 </p>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthmedeiros&layout=compact&theme=calm" />
-</div>
+<details> 
+   <summary>GitHub Stats</summary>
+      <br>
+      <div align="center">
+         <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm">
+         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthmedeiros&layout=compact&theme=calm"><br>
+         <img src="https://github-profile-trophy.vercel.app/?username=muthmedeiros&theme=onedark&row=1&column=6"><br>
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthmedeiros&theme=calm">
+      </div>
+</details> 
