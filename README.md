@@ -34,6 +34,7 @@
   Conhecimentos básicos em: 
 </h3>
 <p>
+  <a href="https://aws.amazon.com/pt/" title="AWS"><img src="logos/aws.png" height=30/></a>
   <a href="https://www.java.com/pt-BR/" title="Java"><img src="logos/java.png" height=30/></a>
   <a href="https://www.python.org/" title="Python"><img src="logos/python.png" height=30/></a>
   <a href="https://pt.wikipedia.org/wiki/HTML" title="HTML"><img src="logos/html5.png" height=30/></a>
