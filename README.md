@@ -9,7 +9,6 @@
           <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" height=25/></a>
          <a href="https://www.instagram.com/muthmedeiros">
           <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" height=25/></a>
-         <img src="https://visitor-badge.glitch.me/badge?page_id=muthmedeiros&left_text=Visitantes&right_color=red" height=25>
       </p>
       <h3> Sobre mim: </h3>
       <ul>
