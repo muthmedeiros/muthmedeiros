@@ -34,6 +34,7 @@
         Conhecimentos básicos em: 
       </h3>
       <p>
+        <a href="https://pt-br.reactjs.org/" title="React"><img src="logos/react.png" height=30/></a>
         <a href="https://aws.amazon.com/pt/" title="AWS"><img src="logos/aws.png" height=30/></a>
         <a href="https://www.java.com/pt-BR/" title="Java"><img src="logos/java.png" height=30/></a>
         <a href="https://www.python.org/" title="Python"><img src="logos/python.png" height=30/></a>
