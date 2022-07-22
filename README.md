@@ -24,7 +24,11 @@
       <p>
         <a href="https://dart.dev/" title="Dart"><img src="logos/dart.png" height=30/></a>
         <a href="https://flutter.dev/" title="Flutter"><img src="logos/flutter.png" height=30/></a>
+        <a href="https://pt-br.reactjs.org/" title="React"><img src="logos/react.png" height=30/></a>
+        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="logos/typescript.png" height=30/></a>
+        <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
         <a href="https://firebase.google.com/" title="Firebase"><img src="logos/firebase.png" height=30/></a>
+        <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="logos/gcp.png" height=30/></a>
         <a href="https://git-scm.com/" title="Git"><img src="logos/git.png" height=30/></a>
         <a href="https://gitlab.com/" title="GitLab"><img src="logos/gitlab.png" height=30/></a>
         <a href="https://github.com/" title="GitHub"><img src="logos/github.png" height=30/></a>
@@ -34,13 +38,11 @@
         Conhecimentos básicos em: 
       </h3>
       <p>
-        <a href="https://pt-br.reactjs.org/" title="React"><img src="logos/react.png" height=30/></a>
         <a href="https://aws.amazon.com/pt/" title="AWS"><img src="logos/aws.png" height=30/></a>
         <a href="https://www.java.com/pt-BR/" title="Java"><img src="logos/java.png" height=30/></a>
         <a href="https://www.python.org/" title="Python"><img src="logos/python.png" height=30/></a>
         <a href="https://pt.wikipedia.org/wiki/HTML" title="HTML"><img src="logos/html5.png" height=30/></a>
         <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" title="CSS"><img src="logos/css3.png" height=30/></a>
-        <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
         <a href="https://www.docker.com/" title="Docker"><img src="logos/docker.png" height=30/></a>
       </p>
       <details>
