@@ -12,7 +12,7 @@
       </p>
       <h3> Sobre mim: </h3>
       <ul>
-        <li>:desktop_computer: Desenvolvedor Flutter
+        <li>:desktop_computer: Desenvolvedor Front-End | Flutter
         <li>:school: Cursando <a href="http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica">Sistemas de Informação</a> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>
         <li>:briefcase: Desenvolvedor Júnior @ <a href="https://arpiatecnologia.com.br/">Arpia Tecnologia</a>
         <li>:globe_with_meridians: Fluente em Inglês, conhecimentos básicos em Espanhol e aprendendo Japonês
@@ -71,6 +71,16 @@
                      <td><a href='https://github.com/muthmedeiros/split.it'>Split.It</a></td>
                      <td>Flutter, MobX, Modular e Firebase</td>
                      <td>Projeto completo da Trilha Flutter do programa de aceleração <a href="https://www.rocketseat.com.br/ignite">Ignite</a>. Nele conseguimos criar uma lista de items a serem divididos, adicionar pessoas e calcular quanto cada um deve pagar no final.</td>
+                  </tr>
+                  <tr>
+                     <td><a href='https://github.com/muthmedeiros/alfood-main'>AlFood</a></td>
+                     <td><a href="https://reactjs.org/">React</a> com <a href="https://www.typescriptlang.org/">TypeScript</a>, <a href="https://sass-lang.com/">SASS</a>,  <a href="https://axios-http.com/">Axios</a>, React-Route-DOM, <a href="https://mui.com/">MUI</a></td>
+                     <td>Projeto para estudos de como conectar e criar requisições no React utilizando o Axios.</td>
+                  </tr>
+                  <tr>
+                     <td><a href='https://github.com/muthmedeiros/aluroni-router-aula1.2'>Aluroni Router</a></td>
+                     <td>React com TypeScript, <a href="https://www.npmjs.com/package/react-router-dom">React-Route-DOM</a>, <a href="https://www.npmjs.com/package/classnames">Classnames</a>, SASS, <a href="https://eslint.org/">ESLINT</a></td>
+                     <td>Aprendendo sobre rotas com React e React-Route-DOM.</td>
                   </tr>
                   <tr>
                      <td><a href='https://github.com/muthmedeiros/loja_virtual_responsiva'>Loja Virtual Responsiva</a></td>
