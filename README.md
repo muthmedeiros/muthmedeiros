@@ -36,6 +36,7 @@
         <a href="https://pt-br.reactjs.org/" title="React"><img src="logos/react.png" height=30/></a>
         <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="logos/typescript.png" height=30/></a>
         <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
+        <a href="https://nodejs.org/en/" title="NodeJS"><img src="https://nodejs.org/static/images/logo.svg" height=30/></a>
       <p/>
       <h3 align="left">
         Conhecimentos básicos em: 
