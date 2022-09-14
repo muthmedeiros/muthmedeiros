@@ -14,7 +14,7 @@
       <ul>
         <li>:desktop_computer: Desenvolvedor Front-End | Flutter
         <li>:school: Cursando <a href="http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica">Sistemas de Informação</a> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>
-        <li>:briefcase: Desenvolvedor Júnior @ <a href="https://arpiatecnologia.com.br/">Arpia Tecnologia</a>
+        <li>:briefcase: Desenvolvedor Pleno @ <a href="https://www.nttdata.com/global/en/">NTT DATA</a>
         <li>:globe_with_meridians: Fluente em Inglês, conhecimentos básicos em Espanhol e aprendendo Japonês
         <li>:seedling: Aprendendo sobre DevOps, Back-End e como me tornar um CTO
       </ul>
