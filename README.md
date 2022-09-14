@@ -33,7 +33,7 @@
       </h3>
       <p>
         <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="logos/gcp.png" height=30/></a>
-        <a href="https://pt-br.reactjs.org/" title="React"><img src="logos/react.png" height=30/></a>
+        <a href="https://pt-br.reactjs.org/" title="React/React Native"><img src="logos/react.png" height=30/></a>
         <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="logos/typescript.png" height=30/></a>
         <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
         <a href="https://nodejs.org/en/" title="NodeJS"><img src="https://nodejs.org/static/images/logo.svg" height=30/></a>
