@@ -17,21 +17,26 @@
         <li>:seedling: Aprendendo sobre DevOps, Back-End e como me tornar um CTO
       </ul>
       <h3 align="left">
-        Tecnologias mais utilizadas: 
+        Tecnologias que mais utilizo: 
       </h3>
       <p>
         <a href="https://dart.dev/" title="Dart"><img src="logos/dart.png" height=30/></a>
         <a href="https://flutter.dev/" title="Flutter"><img src="logos/flutter.png" height=30/></a>
-        <a href="https://pt-br.reactjs.org/" title="React"><img src="logos/react.png" height=30/></a>
-        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="logos/typescript.png" height=30/></a>
-        <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
         <a href="https://firebase.google.com/" title="Firebase"><img src="logos/firebase.png" height=30/></a>
-        <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="logos/gcp.png" height=30/></a>
         <a href="https://git-scm.com/" title="Git"><img src="logos/git.png" height=30/></a>
         <a href="https://gitlab.com/" title="GitLab"><img src="logos/gitlab.png" height=30/></a>
         <a href="https://github.com/" title="GitHub"><img src="logos/github.png" height=30/></a>
         <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="logos/vscode.png" height=30/></a>
       </p>
+      <h3 align="left">
+        Aprendendo: 
+      </h3>
+      <p>
+        <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="logos/gcp.png" height=30/></a>
+        <a href="https://pt-br.reactjs.org/" title="React"><img src="logos/react.png" height=30/></a>
+        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="logos/typescript.png" height=30/></a>
+        <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
+      <p/>
       <h3 align="left">
         Conhecimentos básicos em: 
       </h3>
