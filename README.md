@@ -10,11 +10,11 @@
       </p>
       <h3> Sobre mim: </h3>
       <ul>
-        <li>:desktop_computer: Desenvolvedor Front-End | Flutter
-        <li>:school: Cursando <a href="http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica">Sistemas de Informação</a> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>
-        <li>:briefcase: Desenvolvedor Pleno @ <a href="https://www.nttdata.com/global/en/">NTT DATA</a>
+        <li>:desktop_computer: Desenvolvedor Full-Stack
+        <li>:school: Formado em <a href="http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica">Sistemas de Informação</a> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>
+        <li>:briefcase: Desenvolvedor Sênior @ <a href="https://www.nttdata.com/global/en/">NTT DATA</a>
         <li>:globe_with_meridians: Fluente em Inglês, conhecimentos básicos em Espanhol e aprendendo Japonês
-        <li>:seedling: Estudando para me tornar Full-Stack, navegando pelo mundo de Infra, DevOps e Cloud e me profissionalizando para ser um CTO!
+        <li>:seedling: Estudando e me profissionalizando em Infra, DevOps e Cloud!
       </ul>
       <h3 align="left">
         Tecnologias que mais utilizo: 
