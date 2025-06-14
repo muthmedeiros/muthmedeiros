@@ -10,10 +10,10 @@
       </p>
       <h3> Sobre mim: </h3>
       <ul>
-        <li>:desktop_computer: Desenvolvedor Full-Stack
+        <li>:desktop_computer: Desenvolvedor Full-Stack | Especialista em Flutter
         <li>:school: Formado em <a href="http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica">Sistemas de Informação</a> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>
         <li>:briefcase: Desenvolvedor Sênior @ <a href="https://www.nttdata.com/global/en/">NTT DATA</a>
-        <li>:globe_with_meridians: Fluente em Inglês, conhecimentos básicos em Espanhol e aprendendo Japonês
+        <li>:globe_with_meridians: Fluente em Inglês, intermediário em Espanhol e aprendendo Japonês
         <li>:seedling: Estudando e me profissionalizando em Infra, DevOps e Cloud!
       </ul>
       <h3 align="left">
@@ -22,7 +22,9 @@
       <p>
         <a href="https://dart.dev/" title="Dart"><img src="logos/dart.png" height=30/></a>
         <a href="https://flutter.dev/" title="Flutter"><img src="logos/flutter.png" height=30/></a>
+        <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="logos/gcp.png" height=30/></a>
         <a href="https://firebase.google.com/" title="Firebase"><img src="logos/firebase.png" height=30/></a>
+        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="logos/typescript.png" height=30/></a>
         <a href="https://git-scm.com/" title="Git"><img src="logos/git.png" height=30/></a>
         <a href="https://gitlab.com/" title="GitLab"><img src="logos/gitlab.png" height=30/></a>
         <a href="https://github.com/" title="GitHub"><img src="logos/github.png" height=30/></a>
@@ -32,9 +34,7 @@
         Aprendendo: 
       </h3>
       <p>
-        <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="logos/gcp.png" height=30/></a>
         <a href="https://pt-br.reactjs.org/" title="React/React Native"><img src="logos/react.png" height=30/></a>
-        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="logos/typescript.png" height=30/></a>
         <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
         <a href="https://nodejs.org/en/" title="NodeJS"><img src="https://nodejs.org/static/images/logo.svg" height=30/></a>
       <p/>
