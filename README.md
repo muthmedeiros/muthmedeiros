@@ -1,113 +1,88 @@
-<!DOCTYPE html>
-<html>
-   <body>
-      <h1> Olá, meu nome é Murilo Medeiros 👋 </h1>
-      <p>
-         <a href="https://www.linkedin.com/in/murilo-medeiros-07452314a/">
-          <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" height=25/></a>
-         <a href="https://www.instagram.com/muthmedeiros">
-          <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" height=25/></a>
-      </p>
-      <h3> Sobre mim: </h3>
-      <ul>
-        <li>:desktop_computer: Desenvolvedor Full-Stack | Especialista em Flutter
-        <li>:school: Formado em <a href="http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica">Sistemas de Informação</a> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>
-        <li>:briefcase: Desenvolvedor Sênior @ <a href="https://www.nttdata.com/global/en/">NTT DATA</a>
-        <li>:globe_with_meridians: Fluente em Inglês, intermediário em Espanhol e aprendendo Japonês
-        <li>:seedling: Estudando e me profissionalizando em Infra, DevOps e Cloud!
-      </ul>
-      <h3 align="left">
-        Tecnologias que mais utilizo: 
-      </h3>
-      <p>
-        <a href="https://dart.dev/" title="Dart"><img src="logos/dart.png" height=30/></a>
-        <a href="https://flutter.dev/" title="Flutter"><img src="logos/flutter.png" height=30/></a>
-        <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="logos/gcp.png" height=30/></a>
-        <a href="https://firebase.google.com/" title="Firebase"><img src="logos/firebase.png" height=30/></a>
-        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="logos/typescript.png" height=30/></a>
-        <a href="https://git-scm.com/" title="Git"><img src="logos/git.png" height=30/></a>
-        <a href="https://gitlab.com/" title="GitLab"><img src="logos/gitlab.png" height=30/></a>
-        <a href="https://github.com/" title="GitHub"><img src="logos/github.png" height=30/></a>
-        <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="logos/vscode.png" height=30/></a>
-      </p>
-      <h3 align="left">
-        Aprendendo: 
-      </h3>
-      <p>
-        <a href="https://pt-br.reactjs.org/" title="React/React Native"><img src="logos/react.png" height=30/></a>
-        <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" height=30/></a>
-        <a href="https://nodejs.org/en/" title="NodeJS"><img src="https://nodejs.org/static/images/logo.svg" height=30/></a>
-      <p/>
-      <h3 align="left">
-        Conhecimentos básicos em: 
-      </h3>
-      <p>
-        <a href="https://aws.amazon.com/pt/" title="AWS"><img src="logos/aws.png" height=30/></a>
-        <a href="https://www.java.com/pt-BR/" title="Java"><img src="logos/java.png" height=30/></a>
-        <a href="https://www.python.org/" title="Python"><img src="logos/python.png" height=30/></a>
-        <a href="https://pt.wikipedia.org/wiki/HTML" title="HTML"><img src="logos/html5.png" height=30/></a>
-        <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" title="CSS"><img src="logos/css3.png" height=30/></a>
-        <a href="https://www.docker.com/" title="Docker"><img src="logos/docker.png" height=30/></a>
-      </p>
-      <details>
-         <summary>:card_file_box: Projetos</summary>
-            <br>
-            <table>
-               <thead>
-                  <tr>
-                     <th>Nome do Projeto</th>
-                     <th>Tecnologias Utilizadas</th>
-                     <th>Descrição</th>
-                  </tr>
-               </thead>
-               <tbody>
-                  <tr>
-                     <td><a href='https://github.com/muthmedeiros/tela_de_login_com_flutter'>Tela de Login</a></td>
-                     <td>Flutter, <a href="https://pub.dev/packages/mobx">MobX</a>, <a href="https://modular.flutterando.com.br/">Modular</a> e Firebase</td>
-                     <td>Telas simples de login e registro para aprendizado e reforço de conhecimentos em Flutter, gerência de estado, gerenciamento de rotas, autenticação e manipulação de banco de dados.</td>
-                  </tr>
-                  <tr>
-                     <td><a href='https://github.com/muthmedeiros/NLW05_dev_quiz'>DevQuiz</a></td>
-                     <td>Flutter</td>
-                     <td>Projeto completo da NLW #05 da <a href="https://www.rocketseat.com.br/">Rocketseat</a> em que é criado um quiz sobre tecnologias com reações para respostas certas e erradas, além de contador de acertos.</td>
-                  </tr>
-                  <tr>
-                     <td><a href='https://github.com/muthmedeiros/split.it'>Split.It</a></td>
-                     <td>Flutter, MobX, Modular e Firebase</td>
-                     <td>Projeto completo da Trilha Flutter do programa de aceleração <a href="https://www.rocketseat.com.br/ignite">Ignite</a>. Nele conseguimos criar uma lista de items a serem divididos, adicionar pessoas e calcular quanto cada um deve pagar no final.</td>
-                  </tr>
-                  <tr>
-                     <td><a href='https://github.com/muthmedeiros/alfood-main'>AlFood</a></td>
-                     <td><a href="https://reactjs.org/">React</a> com <a href="https://www.typescriptlang.org/">TypeScript</a>, <a href="https://sass-lang.com/">SASS</a>,  <a href="https://axios-http.com/">Axios</a>, React-Route-DOM, <a href="https://mui.com/">MUI</a></td>
-                     <td>Projeto para estudos de como conectar e criar requisições no React utilizando o Axios.</td>
-                  </tr>
-                  <tr>
-                     <td><a href='https://github.com/muthmedeiros/aluroni-router-aula1.2'>Aluroni Router</a></td>
-                     <td>React com TypeScript, <a href="https://www.npmjs.com/package/react-router-dom">React-Route-DOM</a>, <a href="https://www.npmjs.com/package/classnames">Classnames</a>, SASS, <a href="https://eslint.org/">ESLINT</a></td>
-                     <td>Aprendendo sobre rotas com React e React-Route-DOM.</td>
-                  </tr>
-                  <tr>
-                     <td><a href='https://github.com/muthmedeiros/loja_virtual_responsiva'>Loja Virtual Responsiva</a></td>
-                     <td>Flutter</td>
-                     <td>Construção de tela simples que simula uma loja virtual para aprendizado e reforço de conhecimentos em responsividade com Flutter e como ele é importante no desenvolvimento de interfaces.</td>
-                  </tr>
-                  <tr>
-                     <td><a href='https://github.com/muthmedeiros/olx_clone'>XLO</a></td>
-                     <td>Flutter, MobX, <a href="https://pub.dev/packages/get_it">GetIt</a> e <a href="https://www.back4app.com/">Back4App</a></td>
-                     <td>Clone da OLX desenvolvido em Flutter.</td>
-                  </tr>
-               </tbody>
-           </table>
-      </details>
-      <details> 
-         <summary>:bar_chart: GitHub Stats</summary>
-            <br>
-            <div align="center">
-               <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm">
-               <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthmedeiros&layout=compact&theme=calm"><br>
-               <img src="https://github-profile-trophy.vercel.app/?username=muthmedeiros&theme=onedark&row=1&column=6"><br>
-               <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthmedeiros&theme=calm">
-            </div>
-      </details> 
-   </body>
-</html>
+# 👋 Olá, meu nome é Murilo Medeiros
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098)](https://www.linkedin.com/in/murilo-medeiros-07452314a/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/muthmedeiros)
+
+## 🧠 Sobre mim
+
+- 💻 Desenvolvedor Full-Stack | Especialista em **Flutter** e **Arquitetura de Software**
+- 🎓 Formado em [Sistemas de Informação](http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica) pela [Universidade Federal de Uberlândia (UFU)](https://ufu.br/)
+- 💼 Desenvolvedor Sênior na [NTT DATA](https://www.nttdata.com/global/en/)
+- 🚀 Estudando as áreas de Infraestrutura, DevOps e Cloud
+- 🌐 Línguas:
+  - 🇺🇸 Inglês: Fluente
+  - 🇪🇸 Espanhol: Intermediário
+  - 🇯🇵 Japonês: Iniciante (em aprendizado)
+
+---
+
+## 🚀 Tecnologias que tenho conhecimento:
+
+### 💻 Front-End & Mobile
+<a href="https://dart.dev/" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/></a>
+<a href="https://angular.io/" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30"/></a>
+<a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/></a>
+<a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/></a>
+
+### 🔗 Back-End
+<a href="https://nodejs.org/" title="NodeJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/></a>
+<a href="https://expressjs.com/" title="ExpressJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/></a>
+<a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/></a>
+<a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/></a>
+
+### ☁️ Cloud & DevOps
+<a href="https://cloud.google.com/" title="Google Cloud"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30"/></a>
+<a href="https://firebase.google.com/" title="Firebase"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="logos/aws.png" height="30"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/></a>
+<a href="https://github.com/" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/></a>
+<a href="https://gitlab.com/" title="GitLab"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30"/></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/></a>
+<a href="https://www.terraform.io/" title="Terraform"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="30"/></a>
+
+### 🏗️ Arquitetura e Boas Práticas
+- Clean Architecture
+- Clean Code
+- Test Driven Development (TDD)
+
+---
+
+<details>
+  <summary>📂 Projetos</summary>
+
+| Nome do Projeto | Tecnologias | Descrição |
+| ---------------- | ------------ | --------- |
+| [Tela de Login](https://github.com/muthmedeiros/tela_de_login_com_flutter) | Flutter, MobX, Modular, Firebase | Telas simples de login e registro para aprendizado de Flutter, estado, rotas e Firebase. |
+| [DevQuiz](https://github.com/muthmedeiros/NLW05_dev_quiz) | Flutter | Projeto da NLW #05 da Rocketseat. Quiz sobre tecnologias, com contador e reações. |
+| [Split.It](https://github.com/muthmedeiros/split.it) | Flutter, MobX, Modular, Firebase | App que divide contas e calcula quanto cada pessoa deve pagar. Projeto do Ignite (Rocketseat). |
+| [AlFood](https://github.com/muthmedeiros/alfood-main) | React, TypeScript, SASS, Axios, React Router, MUI | Projeto para aprendizado de requisições no React. |
+| [Aluroni Router](https://github.com/muthmedeiros/aluroni-router-aula1.2) | React, TypeScript, React Router, SASS, ESLint | Aprendizado sobre rotas com React. |
+| [Loja Virtual Responsiva](https://github.com/muthmedeiros/loja_virtual_responsiva) | Flutter | Tela de loja virtual simulada, focando em responsividade no Flutter. |
+| [XLO (Clone da OLX)](https://github.com/muthmedeiros/olx_clone) | Flutter, MobX, GetIt, Back4App | Clone da OLX desenvolvido para praticar Flutter e Backend-as-a-Service. |
+
+</details>
+
+---
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+
+<div align="center">
+
+![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthmedeiros&layout=compact&theme=calm)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=muthmedeiros&theme=onedark&row=1&column=6)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muthmedeiros&theme=calm)
+
+</div>
+</details>
