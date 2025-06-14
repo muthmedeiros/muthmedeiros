@@ -76,13 +76,12 @@
 
 <details>
   <summary>📊 GitHub Stats</summary>
-
-<div align="center">
-
-![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthmedeiros&layout=compact&theme=calm)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=muthmedeiros&theme=onedark&row=1&column=6)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muthmedeiros&theme=calm)
-
-</div>
+    <div align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muthmedeiros&show_icons=true&count_private=true&include_all_commits=true&theme=calm" alt="GitHub Stats"/>&nbsp;
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthmedeiros&layout=compact&theme=calm" alt="Top Languages"/>
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=muthmedeiros&theme=onedark&row=1&column=6" alt="Trophies"/>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthmedeiros&theme=calm" alt="GitHub Streak"/>
+    </div>
 </details>
