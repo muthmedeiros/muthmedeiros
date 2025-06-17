@@ -5,9 +5,8 @@
 
 ## 🧠 Sobre mim
 
-- 💻 Desenvolvedor Full-Stack | Especialista em **Flutter** e **Arquitetura de Software**
+- 💻 Desenvolvedor Full-Stack Sênior | Especialista em **Flutter** e **Arquitetura de Software**
 - 🎓 Formado em [Sistemas de Informação](http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica) pela [Universidade Federal de Uberlândia (UFU)](https://ufu.br/)
-- 💼 Desenvolvedor Sênior na [NTT DATA](https://www.nttdata.com/global/en/)
 - 🚀 Estudando as áreas de Infraestrutura, DevOps e Cloud
 - 🌐 Línguas:
   - 🇺🇸 Inglês: Fluente
