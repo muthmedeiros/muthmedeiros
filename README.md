@@ -68,6 +68,8 @@
 | [Aluroni Router](https://github.com/muthmedeiros/aluroni-router-aula1.2) | React, TypeScript, React Router, SASS, ESLint | Aprendizado sobre rotas com React. |
 | [Loja Virtual Responsiva](https://github.com/muthmedeiros/loja_virtual_responsiva) | Flutter | Tela de loja virtual simulada, focando em responsividade no Flutter. |
 | [XLO (Clone da OLX)](https://github.com/muthmedeiros/olx_clone) | Flutter, MobX, GetIt, Back4App | Clone da OLX desenvolvido para praticar Flutter e Backend-as-a-Service. |
+| [Conéctar API](https://github.com/muthmedeiros/conectar-api) | NodeJS, TypeScript, Express, PostgreSQL, TSOA | API back-end do projeto Conéctar, estruturada com boas práticas de arquitetura, validação e documentação via Swagger. |
+| [Conéctar App](https://github.com/muthmedeiros/conectar_app) | Flutter, Clean Architecture, Modular | Aplicativo web do projeto Conéctar, com autenticação, gerenciamento e integração com a API. |
 
 </details>
 
