@@ -9,6 +9,7 @@
 - 🎓 Formado em [Sistemas de Informação](http://www.portal.facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica) pela [Universidade Federal de Uberlândia (UFU)](https://ufu.br/)
 - 🚀 Estudando as áreas de Infraestrutura, DevOps e Cloud
 - 🌐 Línguas:
+  - 🇧🇷 Português: Nativo
   - 🇺🇸 Inglês: Fluente
   - 🇪🇸 Espanhol: Intermediário
   - 🇯🇵 Japonês: Iniciante (em aprendizado)
